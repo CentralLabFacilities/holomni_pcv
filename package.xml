@@ -1,0 +1,15 @@
+<package>
+  <name>holomni_pcv</name>
+  <version>1.3.0</version>
+  <description>Holomni package</description>
+  <maintainer email="hoarau.robotics@gmail.com">Antoine Hoarau</maintainer>
+  <author email="hoarau.robotics@gmail.com">Antoine Hoarau</author>
+  <license>GPLv3</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+
+</package>
